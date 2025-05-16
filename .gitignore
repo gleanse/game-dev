@@ -24,6 +24,7 @@ ExportedObj/
 
 # VS Code
 .vscode/
+.vs/
 
 # Rider
 .idea/
